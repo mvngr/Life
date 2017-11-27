@@ -32,7 +32,7 @@ Templates:
 * Prepulsar
 * Unix
 * Pi Portraitor
-## Preview templates
+## Вид шаблонов
 * ![Glider](https://imgur.com/DEinksf.png)
 * ![Middleweight Spaceship](https://imgur.com/36xoXi1.png)
 * ![Glider Generator](https://imgur.com/ebrGKJ3.png)
