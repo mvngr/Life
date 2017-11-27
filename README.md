@@ -18,6 +18,9 @@ Templates:
 * ![Prepulsar](https://imgur.com/ytqz7sn.png)
 * ![Unix](https://imgur.com/S9mno7b.png)
 * ![Pi Portraitor](https://imgur.com/p2yTape.png)
+## The source of the game rules and templates
+On this website you will be able to see the templates and working online version of the algorithm.  
+![michurin.net](http://www.michurin.net/online-tools/life-game.html)
 
 # Игра жизнь
 ## Типы входных данных
@@ -39,3 +42,6 @@ Templates:
 * ![Prepulsar](https://imgur.com/ytqz7sn.png)
 * ![Unix](https://imgur.com/S9mno7b.png)
 * ![Pi Portraitor](https://imgur.com/p2yTape.png)
+## Источник правил игры и шаблонов
+На этом сайте вы сможете посмотреть все шаблоны и работающую онлайн версию алгоритма.  
+![michurin.net](http://www.michurin.net/online-tools/life-game.html)
