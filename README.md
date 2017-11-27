@@ -3,7 +3,7 @@
 ### Random
 You need to enter only the length and width of the grid. The rest is done by the algorithm.
 ### Sample
-You have to choose one of the available templates.
+You have to choose one of the available templates.  
 Templates:
 * Glider
 * Middleweight Spaceship
@@ -24,7 +24,7 @@ Templates:
 ### Рандомное поле
 Для того, чтобы создать изначально рандомное поле вам нужно только ввести длину и ширину поля. Всё остальное алгоритм сделает сам.
 ### Шаблоны
-Вы можете выбрать уже существующий шаблон
+Вы можете выбрать уже существующий шаблон.  
 Шаблоны:
 * Glider
 * Middleweight Spaceship
